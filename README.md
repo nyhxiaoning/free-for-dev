@@ -1,5 +1,19 @@
 # free-for.dev
 
+开发者和开源作者现在有许多提供免费服务层的服务，但找到所有这些服务需要一些时间，以便做出明智的决策。
+
+以下是一些提供免费开发者服务层的软件（SaaS、PaaS、IaaS等）和其他相关服务的列表。
+
+此列表的范围仅限于基础设施开发人员（如系统管理员、DevOps从业人员等）可能会觉得有用的服务。我们热爱所有免费的服务，但为了保持主题的专注，最好遵守这个范围。有时这个界限较为模糊，所以这是一个有立场的列表；如果我没有接受您的贡献，请不要感到冒犯。
+
+这个列表的成果来自1600多人的拉取请求、评论、想法和工作。您也可以通过提交[拉取请求](https://github.com/ripienaar/free-for-dev)，来添加更多服务，或者删除那些服务内容发生变化或已经被停用的服务。
+
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)
+
+注意：此列表仅包含按服务提供的产品，而不包括自托管软件。要符合资格，服务必须提供免费层，而不仅仅是免费试用。如果服务按时间限制免费层，则该免费层必须至少持续一年。我们还从安全角度考虑免费层，因此单点登录（SSO）是可以接受的，但我不会接受那些将TLS限制为仅限付费层的服务。
+
+
+
 Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
 
 This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers.
@@ -174,7 +188,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Cloud management solutions
+## 云管理解决方案 Cloud management solutions
 
   * [Brainboard](https://www.brainboard.co) - Collaborative solution to visually build and manage cloud infrastructures from end-to-end.
   * [Cloud 66](https://www.cloud66.com/) - Free for personal projects (includes one deployment server, one static site), Cloud 66 gives you everything you need to build, deploy, and grow your applications on any cloud without the headache of the “server stuff.”.
@@ -185,7 +199,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Source Code Repos
+## 源代码存储库 Source Code Repos
 
   * [Bitbucket](https://bitbucket.org/) — Unlimited public and private Git repos for up to 5 users with Pipelines for CI/CD
   * [chiselapp.com](https://chiselapp.com/) — Unlimited public and private Fossil repositories
@@ -210,7 +224,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## APIs, Data, and ML
+## API、数据和机器学习 APIs, Data, and ML
 
   * [JSONGrid](https://jsongrid.com) - Free tool to Visualize, Edit, Filter complex JSON data into beautiful tabular Grid. Save and Share JSON data over link link.
   * [Zerosheets](https://zerosheets.com) - Turn your Google Sheets spreadsheets into powerful API`s to rapidly develop prototypes, websites, apps and more. 500 requests per month available for free.
@@ -382,7 +396,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Artifact Repos
+## 软件平台 Artifact Repos
 
   * [Artifactory](https://jfrog.com/start-free/) - An artifact repository that supports numerous package formats like Maven, Docker, Cargo, Helm, PyPI, CocoaPods, and GitLFS. Includes package scanning tool XRay and CI/CD tool Pipelines (formerly Shippable) with a free tier of 2,000 CI/CD minutes per month.
   * [central.sonatype.org](https://central.sonatype.org) — The default artifact repository for Apache Maven, SBT, and other build systems.
@@ -398,7 +412,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Tools for Teams and Collaboration
+## 团队和协作工具 Tools for Teams and Collaboration
 
   * [3Cols](https://3cols.com/) - A free cloud-based code snippet manager for personal and collaborative code.
   * [Bitwarden](https://bitwarden.com) — The easiest and safest way for individuals, teams, and business organizations to store, share, and sync sensitive data.
@@ -1148,7 +1162,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## PaaS
+## 平台即服务（也称为PaaS）是一种云计算服务模型 PaaS
 
   * [anvil.works](https://anvil.works) - Web app development with nothing but Python. Free tier with unlimited apps and 30-second timeouts.
   * [appwrite](https://appwrite.io) - Unlimited projects with no project pausing (supports websockets) and authentication service. 1 Database, 3 Buckets, 5 Functions per project in free tier.
@@ -1177,7 +1191,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## BaaS
+## （Blockchain as a Service）区块链即服务 BaaS
 
   * [Activepieces](https://www.activepieces.com) - Build automation flows to connect several apps together in your app's backend. For example, send a Slack message or add a Google Sheet row when an event fires in your app. Free up to 5,000 tasks per month.
   * [back4app.com](https://www.back4app.com) - Back4App is an easy-to-use, flexible and scalable backend based on Parse Platform.
@@ -1218,7 +1232,7 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Low-code Platform
+## 低代码平台 Low-code Platform
 
   * [Clappia](https://www.clappia.com) — A low-code platform designed for building business process applications with customizable mobile and web apps. Offers a drag-and-drop interface, features like Offline Support, real-time location tracking and integration with various third-party services.
   * [Basedash](https://www.basedash.com) — Low-code platform for building internal admin panels and dashboards. Supports SQL databases and REST APIs.
@@ -1306,7 +1320,7 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## IaaS
+## 基础设施即服务 IaaS
 
   * [4EVERLAND](https://www.4everland.org/) — Compatible with AWS S3 - APIs, interface operations, CLI, and other upload methods, upload and store files from the IPFS and Arweave networks in a safe, convenient, and efficient manner. Registered users can get 6 GB of IPFS storage and 300MB of Arweave storage for free. Any Arweave file uploads smaller than 150 KB are free.
   * [backblaze.com](https://www.backblaze.com/b2/) — Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
@@ -1317,7 +1331,7 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Managed Data Services
+## 托管数据服务 Managed Data Services
 
   * [Aiven](https://aiven.io/) - Aiven offers free PostgreSQL, MySQL and Redis plans on its open-source data platform. Single node, 1 CPU, 1GB RAM, and for PostgreSQL and MySQL, 5GB storage. Easy migration to more extensive plans or across clouds.
   * [airtable.com](https://airtable.com/) — Looks like a spreadsheet, but it's a relational database unlimited bases, 1,200 rows/base, and 1,000 API requests/month
@@ -1355,7 +1369,7 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Tunneling, WebRTC, Web Socket Servers and Other Routers
+## 隧道、WebRTC、Web Socket 服务器和其他路由 Tunneling, WebRTC, Web Socket Servers and Other Routers
 
   * [Pinggy](https://pinggy.io) — Public URLs for localhost with a single command, no downloads required. HTTPS / TCP / TLS tunnels. The free plan has 60 minutes tunnel lifetime.
   * [conveyor.cloud](https://conveyor.cloud/) — Visual Studio extension to expose IIS Express to the local network or over a tunnel to a public URL.
@@ -1382,7 +1396,7 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Issue Tracking and Project Management
+## 问题跟踪和项目管理 Issue Tracking and Project Management
 
   * [acunote.com](https://www.acunote.com/) — Free project management and SCRUM software for up to 5 team members
   * [asana.com](https://asana.com/) — Free for private project with collaborators
@@ -1457,7 +1471,7 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Storage and Media Processing
+## 存储和媒体处理 Storage and Media Processing
 
   * [AndroidFileHost](https://androidfilehost.com/) - Free file-sharing platform with unlimited speed, bandwidth, file count, download count, etc. It is mainly aimed for Android dev-related files like APK build, custom ROM & modifications, etc. But seems to accept any other files as well.
   * [borgbase.com](https://www.borgbase.com/) — Simple and secure offsite backup hosting for Borg Backup. 10 GB free backup space and two repositories.
@@ -1507,7 +1521,7 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Design and UI
+## 设计和UI框架 Design and UI
 
   * [AllTheFreeStock](https://allthefreestock.com) - a curated list of free stock images, audio and videos.
   * [Float UI](https://floatui.com/) - free web development tool for quickly creating modern, responsive websites with sleek design, even for non-designers.
@@ -1604,7 +1618,7 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Design Inspiration
+## 设计灵感系统Design Inspiration
 
   * [awwwards.](https://www.awwwards.com/) - [Top websites] A showcase of all the best-designed websites (voted on by designers).
   * [Behance](https://www.behance.net/) - [Design showcase] A place where designers showcase their work. Filterable with categories for UI/UX projects.
@@ -1624,7 +1638,7 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Data Visualization on Maps
+## 地图上的数据可视化 Data Visualization on Maps
 
   * [IP Geolocation](https://ipgeolocation.io/) — Free DEVELOPER plan available with 30K requests/month.
   * [carto.com](https://carto.com/) — Create maps and geospatial APIs from your and public data.
@@ -1653,7 +1667,7 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Package Build System
+## 打包和构建系统 Package Build System
 
   * [build.opensuse.org](https://build.opensuse.org/) — Package build service for multiple distros (SUSE, EL, Fedora, Debian, etc.).
   * [copr.fedorainfracloud.org](https://copr.fedorainfracloud.org) — Mock-based RPM build service for Fedora and EL.
@@ -1718,7 +1732,7 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Analytics, Events and Statistics
+## 分析、事件和统计 Analytics, Events and Statistics
 
   * [Dwh.dev](https://dwh.dev) - Data Cloud Observability Solution (Snowflake). Free for personal use.
   * [Hightouch](https://hightouch.com/) - Hightouch is a Reverse ETL platform that helps you sync customer data from your data warehouse to your CRM, marketing, and support tools. The free tier offers you one destination to sync data to.
@@ -1767,7 +1781,7 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Visitor Session Recording
+## 访客会话录音 Visitor Session Recording
 
   * [Reactflow.com](https://www.reactflow.com/) — Per site: 1,000 pages views/day, three heatmaps, three widgets, free bug tracking
   * [OpenReplay.com](https://www.openreplay.com) - Open-source session replay with dev tools for bug reproduction, live session for real-time support, and product analytics suite. One thousand sessions/month with access to all features and 7-day retention.
@@ -1784,14 +1798,14 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## International Mobile Number Verification API and SDK
+## 国际手机号码验证API和SDK International Mobile Number Verification API and SDK
 
   * [numverify](https://numverify.com/) — Global phone number validation and lookup JSON API. 100 API requests/month
   * [veriphone](https://veriphone.io/) — Global phone number verification in a free, fast, reliable JSON API. 1000 requests/month
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Payment and Billing Integration
+## 支付和账单集成 Payment and Billing Integration
 
   * [Qonversion](http://qonversion.io/) - All-in-one cross-platform subscription management platform offering analytics, A/B testing, Apple Search Ads, remote configs, and growth tools for optimizing in-app purchases and monetization. Compatible with iOS, Android, React Native, Flutter, Unity, Cordova, Stripe, and web. Free up to $10k in monthly tracked revenue.
   * [ParityVend](https://www.ambeteco.com/ParityVend/) – Automatically adjust pricing based on visitor location to expand your business globally and reach new markets (purchasing power parity). The free plan includes 7,500 API requests/month.
@@ -1824,14 +1838,14 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Vagrant Related
+## 虚拟机相关 Vagrant Related
 
   * [Vagrant Cloud](https://app.vagrantup.com) - HashiCorp Vagrant Cloud. Vagrant box hosting.
   * [Vagrantbox.es](https://www.vagrantbox.es/) — An alternative public box index
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Dev Blogging Sites
+## 开发博客网站 Dev Blogging Sites
 
   * [BearBlog](https://bearblog.dev/) - Minimalist, Markdown-powered blog and website builder.
   * [Dev.to](https://dev.to/) - Where programmers share ideas and help each other grow.
@@ -1841,7 +1855,7 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Commenting Platforms
+## 评论平台 Commenting Platforms
   * [GraphComment](https://graphcomment.com/) - GraphComment is a comments platform that helps you build an active community from the website’s audience.
   * [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages, and more!
   * [Disqus](https://disqus.com/) - Disqus is a networked community platform used by hundreds of thousands of sites all over the web.
@@ -1850,7 +1864,7 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Screenshot APIs
+## 截图 Screenshot APIs
 
   * [ApiFlash](https://apiflash.com) — A screenshot API based on Aws Lambda and Chrome. Handles full page, captures timing, and viewport dimensions.
   * [microlink.io](https://microlink.io/) – It turns any website into data such as metatags normalization, beauty link previews, scraping capabilities, or screenshots as a service. 250 requests/day every day free.
@@ -1864,7 +1878,7 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Flutter Related and Building IOS Apps without Mac
+## Flutter 相关和在没有 Mac 的情况下构建 IOS 应用程序  Flutter Related and Building IOS Apps without Mac
 
   * [FlutLab](https://flutlab.io/) - FlutLab is a modern Flutter online IDE and the best place to create, debug, and build cross-platform projects. Build iOS (Without a Mac) and Android apps with Flutter.
   * [CodeMagic](https://codemagic.io/) - Codemagic is a fully hosted and managed CI/CD for mobile apps. You can build, test, and deploy with a GUI-based CI/CD tool. The free tier offers 500 free minutes/month and a Mac Mini instance with 2.3 GHz and 8 GB of RAM.
@@ -1872,7 +1886,7 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Browser-based hardware emulation written in Javascript
+## 编写基于浏览器的硬件仿真工具 Browser-based hardware emulation written in Javascript
 
   * [JsLinux](https://bellard.org/jslinux) — a really fast x86 virtual machine capable of running Linux and Windows 2k.
   * [Jor1k](https://s-macke.github.io/jor1k/demos/main.html) —  an OpenRISC virtual machine capable of running Linux with network support.
@@ -1880,7 +1894,7 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Privacy Management
+## 隐私管理 Privacy Management
   * [Bearer](https://www.bearer.sh/) - Helps implement privacy by design via audits and continuous workflows so that organizations comply with GDPR and other regulations. The free tier is limited to smaller teams and the SaaS version only.
   * [Osano](https://www.osano.com/) - Consent management and compliance platform with everything from GDPR representation to cookie banners. The free tier offers basic features.
   * [Iubenda](https://www.iubenda.com/) - Privacy and cookie policies and consent management. The free tier offers limited privacy and cookie policy as well as cookie banners.
@@ -1890,7 +1904,7 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Miscellaneous
+## 杂项 Miscellaneous 
 
   * [BackgroundStyler.com](https://backgroundstyler.com) - Create aesthetic screenshots of your code, text or images to share on social media.
   * [BinShare.net](https://binshare.net) - Create & share code or binaries. Available to share as a beautiful image e.g. for Twitter / Facebook post or as a link e.g. for chats or forums.
@@ -1935,7 +1949,7 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Remote Desktop Tools
+## 远程桌面工具 Remote Desktop Tools
 
   * [Getscreen.me](https://getscreen.me) —  Free for 2 devices, no limits on the number and duration of sessions
   * [Apache Guacamole™](https://guacamole.apache.org/) — Open source clientless remote desktop gateway
@@ -1944,7 +1958,7 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Game Development
+## 游戏开发 Game Development
 
   * [itch.io](https://itch.io/game-assets) — Free/Paid assets like sprites, tile sets, and character packs.
   * [Gamefresco.com](https://gamefresco.com/) — Discover, collect, and share free game assets from game artists everywhere.
